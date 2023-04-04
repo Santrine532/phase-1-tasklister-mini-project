@@ -35,3 +35,16 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+label {
+  display: block;
+  font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+  margin: 0.4rem 0;
+}
+input,
+label {
+  margin: 0.4rem 0;
+}
